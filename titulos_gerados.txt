@@ -1,0 +1,30 @@
+Títulos das Aulas do dia 01/04/2026
+----------------------------------------
+ADP:
+#51276 260401 - Fundamentos de Estatística I - Prof. Wilson Tarantin Junior(ADP)
+
+UNESP:
+#51927 260401 - Por Trás da Tela- A Jornada Interna de Sua Aula - Prof. None(UNESP)
+#51423 260401 - Skimming - Prof. Vivian Nádia Ribeiro de Moraes Caruzzo(UNESP)
+
+PLEU:
+#50396 260401 - Instructions et tâches (oral) - Prof. Laís Crepaldi Henriques(PLEU)
+
+GVAP:
+#47635 260401 - Processos de Gestão Integral do Cliente - Prof. Francisco Javier Sebastian Mendizabal Alvarez(GVAP)
+
+PET:
+#42836 260401 - Gestão de Cadeias de Suprimento no Mercado Pet - Prof. Fernando Vinícius Da Rocha(PET)
+
+CBP:
+#49270 260401 - Encerramento do curso - Ao vivo - Prof. Italo Delalibera Junior(CBP)
+
+NAE:
+#43362 260401 - Inovação Tecnológica e Metodologias Ativas na Educação do Campo - Prof. Sônia Maria Ribeiro Jaconi(NAE)
+
+ED:
+#43901 260401 - Setor de Defensivos - Prof. José Otavio Machado Menten(ED)
+
+GP:
+#43988 260401 - Gestão de equipe de alta performance I - Prof. Marina Toledo Lourenção Rocha(GP)
+
