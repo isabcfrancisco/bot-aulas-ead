@@ -1,6 +1,6 @@
 # Bot de Automação de Relatórios EAD
 
-Este projeto é uma automação desenvolvida em Python para otimizar o fluxo de trabalho da equipa de transmissão de aulas EAD, com foco nas transmissões ao vivo dos programas de **MBA USP Esalq**, realizado pelo instituto Pecege. O script consome dados de uma API educacional, processa as informações e orquestra o envio de relatórios e alertas estruturados diretamente para um canal corporativo do Discord via Webhooks.
+Este projeto é uma automação desenvolvida em Python para otimizar o fluxo de trabalho da equipe de transmissão de aulas EAD, com foco nas transmissões ao vivo dos programas de **MBA USP Esalq**, realizado pelo instituto Pecege. O script consome dados de uma API educacional, processa as informações e orquestra o envio de relatórios e alertas estruturados diretamente para um canal corporativo do Discord via Webhooks.
 
 ## Funcionalidades
 
